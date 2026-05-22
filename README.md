@@ -90,3 +90,7 @@ A: 检查能否访问 `cdn.jsdelivr.net`。无外网时手动把 `katex.min.js` 
 
 **Q: 为什么 problems.csv 行号比 xlsx 显示行号小 / 大？**
 A: `row_index` 已经按 **Excel 实际行号**（含表头第 1 行）输出，可直接在 Excel 里用「定位 → 行号」回查。
+
+---
+
+接手维护看 [AGENTS.md](AGENTS.md)。
